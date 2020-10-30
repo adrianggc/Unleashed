@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using static UnityEngine.Camera;
 
 namespace UnityStandardAssets.Vehicles.Car
 {
